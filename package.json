@@ -1,0 +1,19 @@
+{
+	"name": "trans",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "f-tbl",
+	"license": "ISC",
+	"dependencies": {
+		"exiftool-vendored": "^29.0.0",
+		"fluent-ffmpeg": "^2.1.3",
+		"pdf-lib": "^1.17.1",
+		"sharp": "^0.33.5"
+	}
+}
